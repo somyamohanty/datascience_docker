@@ -1,4 +1,4 @@
-numpy==1.13.1
+numpy==1.22.0
 alabaster==0.7.10
 Babel==2.4.0
 backports-abc==0.5
